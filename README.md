@@ -1,15 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br> I'm Euihyune, Backend developer from <img src="https://assets.piliapp.com/s3pxy/emoji/meaning/preview/flag-south-korea.png?polish=2" width="13"/> </p>
+<p>Welcome to my page! <br> I'm Euihyune, Backend developer from <img src="https://github.com/Euihyunee/euihyunee/blob/main/south-korea.png?raw=true" width="13"/> </p>
 
-## ** 🛠️Skill **
+### ** 🛠️Skill **
 
 |** Skill **|** Framework **|** Collaboration **|** IDE **|
 | :------: | :------: | :------: | :------: |
 |[![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,gradle)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=postman,github,notion)](https://skillicons.dev) |[![MySkills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev) |
 
 
-## **👨‍💻 Project**
+### **👨‍💻 Project**
 
 <table>
   <thead align="center">
@@ -38,6 +38,6 @@
   </tbody>
 </table>
 
-## ** 🏫Education **
+### ** 🏫Education **
 - 울산 달천고등학교 졸업(2017.02)
 - 한국공학대학교 컴퓨터공학부 소프트웨어학과 학사 졸업(2024.02)
