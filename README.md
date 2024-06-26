@@ -9,7 +9,7 @@
 |[![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,gradle)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=postman,github,notion)](https://skillicons.dev) |[![MySkills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev) |
 
 
-### **👨‍💻 Project**
+### ** 👨‍💻 Project **
 
 <table>
   <thead align="center">
