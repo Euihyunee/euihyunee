@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br> I'm Euihyune, Backend developer from 🇰🇷 </p>
+<p>Welcome to my page! <br> I'm Euihyune, Backend developer from <img src="https://assets.piliapp.com/s3pxy/emoji/meaning/preview/flag-south-korea.png?polish=2" width="13"/> </p>
 
 ## ** 🛠️Skill **
 
