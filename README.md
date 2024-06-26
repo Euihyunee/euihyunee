@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!--
-**Euihyunee/euihyunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Welcome to my page! <br> I'm Euihyune, Backend developer from 🇰🇷 </p>
 
-Here are some ideas to get you started:
+## ** 🛠️Skill **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|** Skill **|** Framework **|** Collaboration **|** IDE **|
+| :------: | :------: | :------: | :------: | :------: |
+|[![My Skills](https://skillicons.dev/icons?i=java,mysql)(https://skillicons.dev) | 
+[![My Skills](https://skillicons.dev/icons?i=spring,gradle)((https://skillicons.dev) |
+[![My Skills](https://skillicons.dev/icons?i=postman,github,notion)((https://skillicons.dev) |
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode)((https://skillicons.dev) |
+
+
+## **👨‍💻 Project**
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📅 Period</b>
+      <td><b>📚 description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Euihyunee/TFT_Statistics"><b>TFT_Statistics</b></td>
+      <td>2021.03 ~ 2021.09</td>
+      <td>롤토체스 전적 검색 및 통계 사이트</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RDDcat/postrofit"><b>Postrofit</b></td>
+      <td>2021.11 ~ 2022.06</td>
+      <td>지하철 보관함 기반 물류 서비스</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Euihyunee/myEmoji"><b>Emoji-Maker</b></td>
+      <td>2022.06 ~ 2023.06</td>
+      <td>이모티콘 자동 생성 사이트</td>
+    </tr>
+  </tbody>
+
+## ** 🏫Education **
+- 울산 달천고등학교 졸업(2017.02)
+- 한국공학대학교 컴퓨터공학부 소프트웨어학과 학사 졸업(2024.02)
