@@ -35,6 +35,11 @@
       <td>2022.06 ~ 2023.06</td>
       <td>이모티콘 자동 생성 사이트</td>
     </tr>
+    <tr>
+      <td><a href="[https://github.com/Euihyunee/myEmoji](https://github.com/MoonThousand/BookLeum)"><b>BookLeum</b></a></td>
+      <td>2024.06 ~ 2024.09</td>
+      <td>도서검색 및 모의구매 사이트</td>
+    </tr>
   </tbody>
 </table>
 
